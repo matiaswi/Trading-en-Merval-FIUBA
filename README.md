@@ -12,3 +12,4 @@ Contacto: matias.wi@hotmail.com
 
 - El archivo llamado "3. Modelo Light GBM.ipynb" contiene el código para ejecutar el modelo predictivo y los sistemas de trading creados.
 
+→ Para descargar todo el repositorio, hacer click en el botón verde que dice "Code" y luego hacer click en "Download ZIP".
